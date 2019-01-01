@@ -79,8 +79,6 @@ for (var i = 0; i < 500; i++) {
 
 }
 
-
-
 function animate() {
 	requestAnimationFrame(animate);
 	c.clearRect(0, 0, innerWidth, innerHeight);
